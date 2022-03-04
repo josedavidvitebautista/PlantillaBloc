@@ -2,6 +2,12 @@
 
 <p align="center">
     
+<h1>Informacion Del Equipo</h1>
+<h4>José David Vite Bautista</h4>
+<h4>Juan Ignacio Lopez Zepeda</h4>
+<h5>( ͡° ͜ʖ ͡°)</h5>
+<br><br>
+    
 <h1>Link Del Bloc En Heroku</h1>
 <h4>https://plantillablog.herokuapp.com/home</h4>
 <br><br>
